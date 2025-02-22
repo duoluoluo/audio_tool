@@ -13,6 +13,11 @@ https://github.com/ggerganov/whisper.cpp
 ### fishspeech.python
 https://github.com/fishaudio/fish-speech
 
+### f5.python
+https://github.com/SWivid/F5-TTS
+
+优先先选第一个使用，有声纹需求可以用第二个。
+
 
 
 ## AI学习参考资料
